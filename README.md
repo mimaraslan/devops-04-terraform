@@ -15,7 +15,7 @@ Monitoring:      (Prometheus, Grafana, ELK)
 ```
 <hr>
 
-
+![terraform-logo.png](terraform-logo.png)
 
 AWS CLI kurulacak.
 
