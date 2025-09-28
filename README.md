@@ -259,10 +259,6 @@ resource "aws_s3_bucket" "example" {
 ```
 
 
-
-
-
-
 Terraform ile oluştulan ve takip edilen o makinedeki bütün kaynakları yok eder.
 ```
 terraform destroy
@@ -289,3 +285,8 @@ https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-terraform-
 D:\workspace\devops-2025\devops-04-terraform
 ```
 
+
+Local makinenin terminalinden AWS Cloud ortamına bağlanmak
+```
+aws configure 
+```
